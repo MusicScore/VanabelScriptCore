@@ -28,3 +28,4 @@ JavaDocs/
 # IntelliJ files
 .idea/
 *.iml
+src/main/resources/denizencoresuspic.properties
